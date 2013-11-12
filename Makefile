@@ -1,8 +1,8 @@
 VERSION = 3
 PATCHLEVEL = 0
 SUBLEVEL = 31
-EXTRAVERSION =
-NAME = Sneaky Weasel
+EXTRAVERSION =_I_C_E_D_C_O_L_D_
+NAME = _Rushing@XDA_
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
